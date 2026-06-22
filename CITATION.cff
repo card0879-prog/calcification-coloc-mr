@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this software or data, please cite it as below."
+title: "Colocalisation and Mendelian randomisation engine for the PPi-TNAP calcification drug-target axis"
+authors:
+  - family-names: Tao
+    given-names: Jing
+  # TODO: add co-authors here, e.g.
+  # - family-names: Yang
+  #   given-names: Yining
+version: 1.0.0
+date-released: 2026-06-22
+license: MIT
+# TODO: after Zenodo mints a DOI, paste it on the next line and uncomment:
+# doi: 10.5281/zenodo.XXXXXXX
